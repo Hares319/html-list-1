@@ -1,0 +1,9 @@
+2025-03-25 12:44:00  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2025-03-25 12:44:00  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2025-03-25 12:44:00  C:\Users\Student\Desktop\Trainee id-1287983\html-list-1\Notepad++\config.xml is opened.
+2025-03-25 12:44:00  C:\Users\Student\Desktop\Trainee id-1287983\html-list-1\Notepad++\config.xml  8421/8421 bytes are written.
+2025-03-25 12:44:00  C:\Users\Student\Desktop\Trainee id-1287983\html-list-1\Notepad++\config.xml is closed.
+2025-03-25 12:44:00  C:\Users\Student\Desktop\Trainee id-1287983\html-list-1\Notepad++\session.xml is opened.
+2025-03-25 12:44:00  C:\Users\Student\Desktop\Trainee id-1287983\html-list-1\Notepad++\session.xml  917/917 bytes are written.
+2025-03-25 12:44:00  C:\Users\Student\Desktop\Trainee id-1287983\html-list-1\Notepad++\session.xml is closed.
+2025-03-25 12:44:00  WM_DESTROY (isEndSessionStarted == true)
